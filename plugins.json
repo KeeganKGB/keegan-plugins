@@ -66,22 +66,6 @@
   {
     "projectUrl": "storm-client.net",
     "provider": "keegan",
-    "name": "Keegan Miner",
-    "description": "Mines Iron",
-    "id": "keeganminer-plugin",
-    "releases": [
-      {
-        "date": "2023-02-28",
-        "sha512sum": "4C8F5332ED423696459841C2EA0D1191478042C65C296D650E3B2A8138305C3A2C58F93D63F3DC941785A9C57463033FEE7319CE90EBFA5B1C64C84FDDD62C7E",
-        "version": "0.1.0",
-        "url": "https://raw.githubusercontent.com/KeeganKGB/keegan-plugins/main/release/keegan-miner-0.1.0.jar",
-        "requires": "^1.0.0"
-      }
-    ]
-  },
-  {
-    "projectUrl": "storm-client.net",
-    "provider": "keegan",
     "name": "Keegan Prayer Flick",
     "description": "1T Flicks Quck Prayers",
     "id": "keeganprayerflick-plugin",
